@@ -1,0 +1,35 @@
+---
+title: Why choose us?
+---
+
+::: {.content-visible when-profile="english"}
+
+![](images\sec_1.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
+- **Industry Expertise:** Our team of seasoned professionals brings unparalleled experience and knowledge to every project.
+- **Tailored Solutions:** We recognize that each client has unique needs, which is why we provide custom security plans designed specifically for you.
+- **24/7 Support:** Our dedicated support team is available around the clock to ensure your security systems are always operating at peak performance.
+
+![](images\sec_3.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
+
+- **Innovative Technology:** We utilize the latest in security technology to deliver solutions that are both effective and adaptable to future challenges.
+
+:::
+
+
+
+::: {.content-visible when-profile="french"}
+
+# **Pourquoi choisir Iconic Security ?**
+
+![](images\sec_1.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+
+- **Expertise de l'Industrie :** Notre équipe de professionnels expérimentés apporte une connaissance et une expérience inégalées à chaque projet.
+- **Solutions Personnalisées :** Nous comprenons que chaque client a des besoins uniques, c'est pourquoi nous offrons des plans de sécurité personnalisés spécialement conçus pour vous.
+- **Support 24/7 :** Notre équipe de support dédiée est disponible à tout moment pour s'assurer que vos systèmes de sécurité fonctionnent toujours de manière optimale.
+
+![](images\sec_3.png){.nolightbox fig-align="center" style="margin-top: 0 px;"}
+- **Technologie Innovante :** Nous utilisons les dernières technologies de sécurité pour vous offrir des solutions efficaces et adaptables aux défis futurs.
+
+:::

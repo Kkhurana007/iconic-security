@@ -1,0 +1,74 @@
+---
+#title: "Contact Us"
+---
+
+::: {.content-visible when-profile="english"}
+
+# Contact Us
+
+We'd love to hear from you! Whether you have a question about our services, feedback, or need support, our team is here to help.
+
+## Get in Touch
+
+**Email:** [info@iconicsecurity.ca](mailto:info@ilovesoils.com)
+
+
+**Address:**  
+Iconic Security   
+18 King St E Suite #1400,
+Toronto, Ontario, M5C 1C4
+Canada
+
+## Contact Form
+
+For your convenience, you can also fill out the form below, and we will get back to you as soon as possible.
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+# Contactez-nous
+Nous serions ravis de vous entendre! Que vous ayez une question sur nos services, des commentaires, ou besoin de soutien, notre équipe est là pour vous aider.
+
+## Nous contacter
+**Courriel:** [info@iconicsecurity.ca](mailto:info@ilovesoils.com)
+
+**Adresse :**
+Iconic Security   
+18 King St E Suite #1400,
+Toronto, Ontario, M5C 1C4
+Canada
+
+## Formulaire de contact
+Pour votre commodité, vous pouvez également remplir le formulaire ci-dessous, et nous vous répondrons dès que possible.
+
+:::
+
+::: {.content-visible when-profile="english"}
+
+## Map
+
+Visit our office at the location below:
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+## Carte
+
+Visitez notre bureau à l'emplacement ci-dessous:
+
+:::
+
+
+<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2886.452168797861!2d-79.37639478454085!3d43.649218579121985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b34d4cd3d840d%3A0x724f2a56cd6c8bc1!2s18%20King%20St%20E%2C%20Toronto%2C%20ON%20M5C%201C4%2C%20Canada!5e0!3m2!1sen!2sus!4v1680822302629!5m2!1sen!2sus"
+  width="600"
+  height="450"
+  style="border:0;"
+  allowfullscreen=""
+  loading="lazy"
+  referrerpolicy="no-referrer-when-downgrade"
+></iframe>
+
+

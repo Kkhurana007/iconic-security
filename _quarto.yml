@@ -1,0 +1,25 @@
+project:
+  type: website
+  post-render: _post-render.R
+  preview:
+    port: 4200
+
+
+profile:
+  default: english
+  group: 
+    - [english, french]
+
+#metadata-files: 
+  #- _quarto-french.yml
+  #- _quarto-english.yml
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+editor: visual
+
+

@@ -1,0 +1,31 @@
+---
+title: Our Services
+---
+
+::: {.content-visible when-profile="english"}
+
+
+
+- **Surveillance Systems:** Monitor your property with our advanced CCTV and real-time surveillance technology.
+- **Access Control:** Secure your premises with our cutting-edge access control systems, ensuring only authorized individuals can enter.
+- **Alarm Systems:** Stay informed and protected with our reliable alarm systems designed to deliver instant alerts and rapid response.
+- **Cybersecurity:** Protect your digital world with our comprehensive cybersecurity solutions, tailored to safeguard your data and networks.
+- **Security Consulting:** Benefit from our expert risk assessments and tailored security strategies to fortify your defenses.
+
+:::
+
+
+::: {.content-visible when-profile="french"}
+
+## **Nos Services :**
+
+- **Systèmes de Surveillance :** Surveillez votre propriété avec notre technologie de vidéosurveillance avancée en temps réel.
+- **Contrôle d'Accès :** Sécurisez vos locaux avec nos systèmes de contrôle d'accès de pointe, assurant que seules les personnes autorisées peuvent entrer.
+- **Systèmes d'Alarme :** Restez informé et protégé grâce à nos systèmes d'alarme fiables, conçus pour fournir des alertes instantanées et une réponse rapide.
+- **Cybersécurité :** Protégez votre monde numérique avec nos solutions complètes de cybersécurité, adaptées pour sécuriser vos données et réseaux.
+- **Consultation en Sécurité :** Profitez de nos expertises en évaluation des risques et en stratégies de sécurité sur mesure pour renforcer vos défenses.
+
+
+:::
+
+
