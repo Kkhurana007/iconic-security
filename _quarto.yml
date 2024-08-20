@@ -1,6 +1,5 @@
 project:
   type: website
-  post-render: _post-render.R
   preview:
     port: 4200
 

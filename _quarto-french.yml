@@ -14,9 +14,9 @@ website:
 
     right:
       - text: English
-        #href: https://sustainable-future.ca/index.html
+        href: https://sustainable-future.ca/index.html
       - text: Français
-        #href: https://sustainable-future.ca/fr/index.html
+        href: https://sustainable-future.ca/fr/index.html
       - icon: envelope
         href: mailto:info@iconicsecurity.ca
       - text: "@2024 Iconic Security. All rights reserved."

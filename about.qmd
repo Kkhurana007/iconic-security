@@ -2,4 +2,34 @@
 title: "About"
 ---
 
-About this site
+::: {.content-visible when-profile="english"}
+
+
+## Iconic Security
+Iconic Security is a Canadian owned and operated Security Company. Iconic provides uniformed security personnel and prides itself in providing quality services in a professional and courteous manner with high focus on customer satisfaction. Iconic ensures this through its policies on customer service, health and safety, quality management and environmental control.
+
+## Why Iconic?
+What differentiates Iconic from its worthy competitors? Iconic prides itself in being affordable while making sure it provides professional services that not only meet clients' needs but exceeds them as well.
+
+## Our Mission
+Provide premier security services in such a way that our clients feel special, and to secure and protect the interest, property and personnel of our clients.
+
+
+:::
+
+::: {.content-visible when-profile="french"}
+
+# À propos
+
+## Iconic Security
+
+Iconic Security est une entreprise de sécurité canadienne détenue et exploitée localement. Iconic fournit du personnel de sécurité en uniforme et s'efforce d'offrir des services de qualité de manière professionnelle et courtoise, en mettant l'accent sur la satisfaction du client. Iconic assure cela grâce à ses politiques en matière de service à la clientèle, de santé et sécurité, de gestion de la qualité et de contrôle environnemental.
+
+## Pourquoi Iconic ?
+Qu'est-ce qui différencie Iconic de ses concurrents méritants ? Iconic se distingue par son accessibilité tout en s'assurant de fournir des services professionnels qui non seulement répondent aux besoins des clients, mais les dépassent également.
+
+## Notre Mission
+Fournir des services de sécurité de premier plan de manière à ce que nos clients se sentent privilégiés, tout en protégeant les intérêts, les biens et le personnel de nos clients.
+
+:::
+

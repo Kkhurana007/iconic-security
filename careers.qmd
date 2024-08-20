@@ -1,0 +1,31 @@
+---
+title: Careers
+---
+
+::: {.content-visible when-profile="english"}
+
+## We are hiring!
+
+We are hiring security guards and patrol supervisors. Please apply online for the positions available only if you have valid security guard license. Only online applications will be considered. Thank you.
+
+:::
+
+
+::: {.content-visible when-profile="french"}
+
+
+## Nous recrutons!
+
+Nous recherchons des agents de sécurité et des superviseurs de patrouille. Veuillez postuler en ligne pour les postes disponibles uniquement si vous possédez une licence valide d'agent de sécurité. Seules les candidatures en ligne seront prises en compte. Merci.
+
+:::
+
+
+
+
+<a href="https://forms.gle/dLT1uPk6Fagp96dz8" target="_blank">
+    <button>Apply Now</button>
+</a>
+
+
+

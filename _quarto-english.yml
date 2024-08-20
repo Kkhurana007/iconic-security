@@ -1,7 +1,7 @@
 lang: en
 
 project: 
-  title: "Sustianable Future"
+  title: "Iconic Security"
   type: website
   output-dir: docs
 
@@ -9,7 +9,7 @@ project:
 website:
   page-navigation: true
   title: "Homepage"
-  site-url: "https://sustainable-future.ca/"
+  #site-url: "https://sustainable-future.ca/"
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
 
@@ -19,7 +19,7 @@ website:
       - text: Français
         href: https://sustainable-future.ca/fr/index.html
       - icon: envelope
-        href: mailto:info@ilovesoils.com
+        href: mailto:info@iconicsecurity.ca
       - text: "@2024 Sustainable Future. All rights reserved."
 
 
@@ -38,7 +38,7 @@ website:
       - text: "Why Choose us?"
         href: choose.qmd
       - text: "Contact Us"
-        href: contact2.qmd
+        href: contact.qmd
     right:
       - href: https://sustainable-future.ca/index.html
         text: English
