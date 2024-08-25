@@ -35,6 +35,20 @@
     "text": "Visit our office at the location below:"
   },
   {
+    "objectID": "careers.html",
+    "href": "careers.html",
+    "title": "Careers",
+    "section": "",
+    "text": "We are hiring security guards and patrol supervisors. Please apply online for the positions available only if you have valid security guard license. Only online applications will be considered. Thank you.\n Apply Now"
+  },
+  {
+    "objectID": "careers.html#we-are-hiring",
+    "href": "careers.html#we-are-hiring",
+    "title": "Careers",
+    "section": "",
+    "text": "We are hiring security guards and patrol supervisors. Please apply online for the positions available only if you have valid security guard license. Only online applications will be considered. Thank you.\n Apply Now"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -89,19 +103,5 @@
     "title": "Iconic Security",
     "section": "Protecting What Matters",
     "text": "Protecting What Matters\nAt Iconic Security, your safety is our commitment. We’re here to provide you with the highest level of protection, so you can focus on what’s important to you. Contact us today to learn more about how we can help secure your world."
-  },
-  {
-    "objectID": "careers.html",
-    "href": "careers.html",
-    "title": "Careers",
-    "section": "",
-    "text": "We are hiring security guards and patrol supervisors. Please apply online for the positions available only if you have valid security guard license. Only online applications will be considered. Thank you.\n Apply Now"
-  },
-  {
-    "objectID": "careers.html#we-are-hiring",
-    "href": "careers.html#we-are-hiring",
-    "title": "Careers",
-    "section": "",
-    "text": "We are hiring security guards and patrol supervisors. Please apply online for the positions available only if you have valid security guard license. Only online applications will be considered. Thank you.\n Apply Now"
   }
 ]

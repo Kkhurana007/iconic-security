@@ -9,18 +9,18 @@ project:
 website:
   page-navigation: true
   title: "Homepage"
-  #site-url: "https://sustainable-future.ca/"
+  site-url: "https://kkhurana007.github.io/iconic-security/"
   page-footer:
     left: "Website made with [Quarto](https://quarto.org/) by [Kunal](https://ilovesoils.com/about.html)."
 
     right:
       - text: English
-        href: https://sustainable-future.ca/index.html
+        href: https://kkhurana007.github.io/iconic-security/
       - text: Français
-        href: https://sustainable-future.ca/fr/index.html
+        href: https://kkhurana007.github.io/iconic-security/fr/
       - icon: envelope
         href: mailto:info@iconicsecurity.ca
-      - text: "@2024 Sustainable Future. All rights reserved."
+      - text: "@2024 Iconic Security. All rights reserved."
 
 
   #search:
@@ -40,9 +40,9 @@ website:
       - text: "Contact Us"
         href: contact.qmd
     right:
-      - href: https://sustainable-future.ca/index.html
+      - href: https://kkhurana007.github.io/iconic-security/
         text: English
-      - href: /fr/index.html
+      - href: https://kkhurana007.github.io/iconic-security/fr/
         text: Français 
 
 format:
